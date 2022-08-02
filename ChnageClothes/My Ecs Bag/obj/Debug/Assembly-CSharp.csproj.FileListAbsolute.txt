@@ -1,0 +1,2 @@
+E:\ZG4Work\My Ecs Bag\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\ZG4Work\My Ecs Bag\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
